@@ -1,0 +1,27 @@
+{
+  "name": "xc-website",
+  "homepage": "https://github.com/xc-official-website/website-backup",
+  "authors": [
+    "Hong Xin <xin.hong@yinfantech.com>"
+  ],
+  "description": "xin cheng official website",
+  "main": "index.html",
+  "keywords": [
+    "transport"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leancloud-storage": "^2.2.1",
+    "jquery": "~2.1.3",
+    "font-awesome": "~4.2.0",
+    "bootstrap": "~3.3.0"
+  }
+}
